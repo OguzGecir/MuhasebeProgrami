@@ -6,7 +6,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		
 		MuhasebeProgrami muhasebe = new MuhasebeProgrami();
-		System.out.println(muhasebe.ucretHesapla(5, 25));
+		System.out.println(muhasebe.ucretHesapla(40, 25));
 	}
 
 }
